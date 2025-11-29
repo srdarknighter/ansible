@@ -1,3 +1,6 @@
+We have 3 vm's - 2 ubuntu and and an amazon linux, we need to start it up using loops
+We need to conditionally terminate the ubuntu vm's
+
 1. First we go to aws IAM service to create a user and give full ec2 access
 2. Under security create the access key, secret access key
 3. Create a vault to store the keys
