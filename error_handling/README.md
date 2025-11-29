@@ -1,0 +1,1 @@
+Error handling in Ansible when a task fails it stops executing on that particular vm and stops execution of tasks in that but does it in other vm's.
